@@ -51,7 +51,7 @@ Made to bypass the system that is disabled on the server, especially for reading
 
 
 
-## Update Fatrat
+## Update Remot3d
 - To update remot3d go to your Remot3d folder and execute :
 ```git pull && chmod +x Remot3d.sh && ./Remot3d.sh```
 
