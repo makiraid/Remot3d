@@ -38,7 +38,7 @@ Made to bypass the system that is disabled on the server, especially for reading
 ## Getting Started
 1. ```git clone https://github.com/KeepWannabe/Remot3d```
 2. ```cd Remot3d```
-3. ```chmod +x remot3d.sh && ./remot3d.sh```
+3. ```chmod +x Remot3d.sh && ./Remot3d.sh```
 
 
 ## Linux operating systems we recommend :
@@ -53,7 +53,7 @@ Made to bypass the system that is disabled on the server, especially for reading
 
 ## Update Fatrat
 - To update remot3d go to your Remot3d folder and execute :
-```git pull && chmod +x remot3d.sh && ./remot3d.sh```
+```git pull && chmod +x Remot3d.sh && ./Remot3d.sh```
 
 
 ## Credits
